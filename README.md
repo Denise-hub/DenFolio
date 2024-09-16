@@ -1,2 +1,0 @@
-# DenFolio
-My portofolio
