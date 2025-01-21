@@ -1,0 +1,1 @@
+DenFolio is a personal portfolio website showcasing my skills, projects, and experience in web development and cybersecurity. It serves as a professional space to highlight my journey, accomplishments, and innovative solutions in technology.
